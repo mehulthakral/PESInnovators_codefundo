@@ -13,18 +13,19 @@ Also the enthusiastic local group of volunteers would be guided by our requireme
 Pre-disaster WORKING:
     This would be a real time application which would continously remain connected to and fetching data from forecast and prediction sites.
 
-    And then in turn sending information and alerts to registered users about exact conditions of their region and specific details in case of serious conditions and may be some useful tips and instructions.
-
-    Also conveying information through twitter. 
+	Whenever an alert is given by the sources, the app would immediately send a notification to all registered users via the app and to all other users in the locality via social media like twitter. In the age of social media, twitter would play an important role.
     
-    Also encouraging more registrations of volunteers organizing themselves into teams.
+   Users would be given an opportunity to volunteer for mainly 2 jobs
+    a.	For collection of relief material at collection centres
+    b.	For transport of relief material to the relief camp in affected area
+
 
 During-disaster WORKING:
-    Data will be continously extracted about exact conditions of affected regions through Twitter-Sentimental-Analysis,Satellite and Drone imagery which in turn is channelized to volunteers and organizations doing relief work.
+    Data will be continously extracted about exact conditions of affected regions through Twitter-Sentimental-Analysis,Satellite and Drone imagery which in turn is analyzed and then channelized to volunteers and organizations doing relief work.
 
-    Also setting up and managment of collection centers for relief material donated by concerned citizens and indicating the reachout to the people in need.  
+    setting up and managment of collection centers for relief material donated by concerned citizens and indicating the reachout to the people in need.  
     
-    Also money donation pathway created distributing collections for management of resources by volunteers and rest given to the appropriate relief fund.
+    money donation pathway created distributing collections for management of resources by volunteers and rest given to the appropriate relief fund.
 
 
 
