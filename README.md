@@ -20,7 +20,7 @@ Users can get started by registering in the app and those who wish to volunteer 
 
 Dataset and the technologies that would be used
 
-ML would be the core domain which would be used in the above app. We hope to make use of ML in a big way. There are many satellites revolving around the globe generating enormous data. This data can be of immense help especially in case of disasters. So a CNN (Convolutional Neural Network) would be used. The before and after images of the affected area would be analyzed to target rescue operations to the affected areas.
+ML would be the core domain which would be used in the above app. We hope to make use of ML in a big way. There are many satellites revolving around the globe generating enormous data. This data can be of immense help especially in case of disasters. So a CNN (Convolutional Neural Network) would be used for analysis. The before and after images of the affected area would be analyzed to target rescue operations to the affected areas.
 
 Not only satellites imageray can provide immense data but also the social media sites like twitter. Nowadays just after a few hours after the disaster has occured, people start posting information about the ground level situation. So data mining would be used to extract information relevent for rescue operations.
 
