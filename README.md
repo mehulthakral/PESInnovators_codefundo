@@ -25,7 +25,7 @@ ML would be the core domain which would be used in the above app. We hope to mak
 Not only satellites imageray can provide immense data but also the social media sites like twitter. Nowadays just after a few hours after the disaster has occured, people start posting information about the ground level situation. So data mining would be used to extract information relevent for rescue operations.
 
 Source of Data for Satellite data: MODIS Satellite imagery.Link : https://modis.gsfc.nasa.gov/.
-Source of Data for sentimental analysis : Twitter
+Source of Data for twiiter data analysis : Twitter
 
 
 
